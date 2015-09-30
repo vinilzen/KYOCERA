@@ -6694,7 +6694,9 @@ li.active .tab .btn-red {
   margin-top: 85px;
   padding-bottom: 107px;
   background-repeat: repeat;
-  background-image: url(../img/patern.png); }
+  background-position-y: 10px;
+  background-image: url(../img/patern.png);
+  }
   /* line 435, /www/kyocera/sass/theme */
   .section-advantage .container {
     max-width: 1386px; }
